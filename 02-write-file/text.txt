@@ -1,4 +1,2 @@
 English
-Russian
-Poland
-Belarussian
+Polish
